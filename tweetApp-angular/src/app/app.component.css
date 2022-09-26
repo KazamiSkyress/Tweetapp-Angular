@@ -1,0 +1,13 @@
+        /* COmment */
+        
+        @import "~bootstrap-icons/font/bootstrap-icons.css";
+        body{
+            background-color: #8f742a8c;
+            background-size: cover;
+            -webkit-background-size: cover;
+            -moz-background-size:cover;
+            -o-background-size:cover;
+        
+        }
+
+       
